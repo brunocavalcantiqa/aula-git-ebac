@@ -3,10 +3,10 @@ Dados do aluno
 -Primeiro Nome: Bruno Santos cavalcanti
 -Profissão: Arquiteto e Urbanista / QA em formação
 -Cidade: Recife, PE
--O que faz nas horas vaga: Ouvir musica, assistir filmes e series e ler
--Feedback sobre o curso Qualidade de Software: Curso facil com uma metodologia muito boa do professor
+-O que faz nas horas vaga: Ler, Ouvir musica e assistir filmes e series.
+-Feedback sobre o curso Qualidade de Software: Curso facil com uma metodologia muito boa do professor.
 -Feedback sobre a plataforma de estudo da EBAC: Precisa melhorar o tempo de retorno para os alunos,
-Alguns materiais não estão compativeius com a aula na platafomra e outros incompletos, ja fiz algumas
+alguns materiais não estão compativeis com a aula na platafomra e outros incompletos, ja fiz algumas
 reclamações e até o momento não houve solução. 
 
 Obrigado!!!
